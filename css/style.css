@@ -668,7 +668,7 @@ border-radius: 140px 11px 11px 20px / 359px 11px 11px 20px;
 } */
 body {
 	overflow: hidden;
-background: radial-gradient(circle, rgb(240, 248, 248) 17%, rgb(135, 141, 143) 83%) no-repeat;
+background: radial-gradient(circle, rgb(240, 248, 248) 17%, rgb(135, 141, 143) 83%);
 /* transition: 5s;
     animation-name: wrappermove; */
 }
